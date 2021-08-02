@@ -27,3 +27,7 @@ https://www.linkedin.com/in/habeeb-adams-64072ba2
 5. **Halak Shukla**
 
 I am undergrad biotechnology student from INDIA. Interested in bioinformatics and drug development. Connect with me via email: halakshukla0101@gmail.com 
+
+6. **Rhoda KOLO**
+
+I am a biomedical researcher from Nigeria. I am currently pursuing a Masters degree in Neuroscience; I equally have interest in bioinformatics and science journalism. Connect with me on LinkedIn https://www.linkedin.com/in/rhoda-kolo-110215219
