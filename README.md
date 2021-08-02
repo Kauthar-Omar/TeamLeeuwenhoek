@@ -19,5 +19,7 @@ I am a microbiologist and data science enthusiast from Lagos, Nigeria. I have an
 
 I am an academia researcher, a university lecturer, and a mobile health developer, from Ain Temouchent, Algeria. My principal background is wireless technologies, as I have a PhD in Telecommunication Systems and Networks, I have also AI/ML/DL background mixed with IoT, web and mobile dev ( programming in Java, C++, Python, HTML and CSS, mixed with electronics, sensors and network configuration and management). Feel free to connect me via LinkedIn at: https://www.linkedin.com/in/kheira-lakhdari-31814410b or via email at: kirabasma12@gmail.com
 
+4. **Adams Habeeb**
 
-
+I am from Nigeria and I hold a first degree in biochemistry. Interested in bioinformatics and computational biology, data science and public health. Connect with me on LinkedIn
+https://www.linkedin.com/in/habeeb-adams-64072ba2
