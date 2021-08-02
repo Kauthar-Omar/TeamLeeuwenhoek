@@ -14,3 +14,10 @@ I am bioinformatics enthusiast from Nairobi, Kenya with specific interest in gen
 2. **Abdulafiz Musa**
 
 I am a microbiologist and data science enthusiast from Lagos, Nigeria. I have an undergraduate degree in Microbiology from the University of Lagos, Nigeria. I enjoy molecular studies on infectious diseases and Taekwondo. Feel free to connect with me  @ [LinkedIn](https://www.linkedin.com/in/abdulafizmusa/)
+
+3. **Kheira Lakhdari**
+
+I am an academia researcher, a university lecturer, and a mobile health developer, from Ain Temouchent, Algeria. My principal background is wireless technologies, as I have a PhD in Telecommunication Systems and Networks, I have also AI/ML/DL background mixed with IoT, web and mobile dev ( programming in Java, C++, Python, HTML and CSS, mixed with electronics, sensors and network configuration and management). Feel free to connect me via LinkedIn at: https://www.linkedin.com/in/kheira-lakhdari-31814410b or via email at: kirabasma12@gmail.com
+
+
+
