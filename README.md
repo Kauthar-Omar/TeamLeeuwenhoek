@@ -23,3 +23,7 @@ I am an academia researcher, a university lecturer, and a mobile health develope
 
 I am from Nigeria and I hold a first degree in biochemistry. Interested in bioinformatics and computational biology, data science and public health. Connect with me on LinkedIn
 https://www.linkedin.com/in/habeeb-adams-64072ba2
+
+5. **Halak Shukla**
+
+I am undergrad biotechnology student from INDIA. Interested in bioinformatics and drug development. Connect with me via email: halakshukla0101@gmail.com 
