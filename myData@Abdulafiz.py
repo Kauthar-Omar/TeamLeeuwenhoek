@@ -1,6 +1,6 @@
 #project1
 
-myData = { "name": "Abdulafiz",
+myData = { "name": "Abdulafiz Musa",
            "email": "musaabdulafiz@gmail.com",
            "slackUsername": "@Abdulafiz",
            "biostack": "Data Science" }
