@@ -38,4 +38,4 @@ I am a Master of Biotechnology student from India currently studying at The Univ
 
 8. **Kasturi Pradhan**
 
-I am from a Microbiology graduate from India. I am currently pursuing my Masters in the same field. I have an interest in genomics , medical microbiology and molecular biology. I am open to learn about programming and data science. Connect with me on my LinkedIn https://www.linkedin.com/in/kasturi-pradhan-b012b71b8 
+I am a Microbiology graduate from India. I am currently pursuing my Masters in the same field. I have an interest in genomics , medical microbiology and molecular biology. I am open to learn about programming and data science. Connect with me on my LinkedIn https://www.linkedin.com/in/kasturi-pradhan-b012b71b8 
