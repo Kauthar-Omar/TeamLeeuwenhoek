@@ -47,3 +47,8 @@ I am a Microbiology graduate from India. I am currently pursuing my Masters in t
 **!!नमस्कार मंडली!!** Hello everyone! Myself Prathamesh Bobale. I'm a student from India. I am currently pursuing my master's in Bioinformatics and have completed my bachelor's in Biotechnology. My interests are in genomics, proteomics, transcriptomics, and software & programming. This is my first time experiencing and participating in such an event. And I would like to thank the HackBio team for building such a platform where people from different fields, with different personalities, and from different parts of the country can interact and work with each other, learn from each other. People can connect me via Mail: pbobale09@gmail.com ; Linkedin: linkedin.com/in/prathamesh-bobale-69b064219 
 
 ![IMG-20180204-WA0007_1](https://user-images.githubusercontent.com/88286563/128367746-ad7a59a2-9740-456b-ad6d-e73569665762.jpg)
+
+
+10. **Isaac Temiloluwa Omolayo**
+
+I am an undergraduate of Electronic and ELectrical Engineering, Obafemi Awolowo University from Ekiti, Nigeria. My research interests include medical robotics, and biomedical sciences. Connect with me via Mail: iomolayo2541@gmail.com; Linkedin: https://www.linkedin.com/in/iomolayo2541/
