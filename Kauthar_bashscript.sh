@@ -6,11 +6,15 @@ slack_username='@Kauthar'
 biostack='genomics/transcriptomics'
 twitter_handle='@K__Omar'
 
-for (( i=0; i<${#slack_username}; ++i )); do
+if [ ${#slack_username} == ${#twitter_handle} ]; then
+  for (( i=0; i<${#slack_username}; ++i )); do
     if [ ${slack_username:$i:1} != ${twitter_handle:$i:1} ]; then
         let "distance++"
     fi
-done
+  done
+else
+  echo "Strings need to be of equal length to calculate humming_distance"
+fi
 
 hamming_distance=$distance
 
