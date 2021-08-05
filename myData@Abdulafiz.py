@@ -9,7 +9,7 @@ myData = { "name": "Abdulafiz Musa",
 
 #Hamming distance
 str1 = myData["slackUsername"]
-str2 = myData["twitter"]
+str2 = myData["twitterHandle"]
 def hammingDist(str1, str2):
     i = 0
     count = 0
