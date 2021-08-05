@@ -51,4 +51,4 @@ I am a Microbiology graduate from India. I am currently pursuing my Masters in t
 
 10. **Isaac Temiloluwa Omolayo**
 
-I am an undergraduate of Electronic and ELectrical Engineering, Obafemi Awolowo University from Ekiti, Nigeria. My research interests include medical robotics, and biomedical sciences. Connect with me via Mail: iomolayo2541@gmail.com; Linkedin: https://www.linkedin.com/in/iomolayo2541/
+I am an undergraduate of Electronic and Electrical Engineering, Obafemi Awolowo University from Ekiti, Nigeria. My research interests include medical robotics, and biomedical sciences. Connect with me via Mail: iomolayo2541@gmail.com; Linkedin: https://www.linkedin.com/in/iomolayo2541/
