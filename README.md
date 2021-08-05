@@ -39,3 +39,11 @@ I am a Master of Biotechnology student from India currently studying at The Univ
 8. **Kasturi Pradhan**
 
 I am a Microbiology graduate from India. I am currently pursuing my Masters in the same field. I have an interest in genomics , medical microbiology and molecular biology. I am open to learn about programming and data science. Connect with me on my LinkedIn https://www.linkedin.com/in/kasturi-pradhan-b012b71b8 
+
+
+9. **Prathamesh Krishna Bobale**
+**@Pratham99**
+
+**!!नमस्कार मंडली!!** Hello everyone! Myself Prathamesh Bobale. I'm a student from India. I am currently pursuing my master's in Bioinformatics and have completed my bachelor's in Biotechnology. My interests are in genomics, proteomics, transcriptomics, and software & programming. This is my first time experiencing and participating in such an event. And I would like to thank the HackBio team for building such a platform where people from different fields, with different personalities, and from different parts of the country can interact and work with each other, learn from each other. People can connect me via Mail: pbobale09@gmail.com ; Linkedin: linkedin.com/in/prathamesh-bobale-69b064219 
+
+![IMG-20180204-WA0007_1](https://user-images.githubusercontent.com/88286563/128367746-ad7a59a2-9740-456b-ad6d-e73569665762.jpg)
