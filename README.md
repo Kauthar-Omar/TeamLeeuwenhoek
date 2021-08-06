@@ -2,8 +2,12 @@
 The Repo is to document work done in Team Leeuwenhoek.
 Different time zones, different minds, but with a single goal that is to excel.
 
+![HackbioStage0](https://user-images.githubusercontent.com/57720624/128475216-f479173f-f577-410c-97d5-e2c8d44ec0cc.jpeg)  ![CODING](https://user-images.githubusercontent.com/57720624/128476834-9723e013-5858-4d0a-8279-706da8b4e76d.png) 
+ ![iCBmages](https://user-images.githubusercontent.com/57720624/128476347-9c7c4553-3285-4ff6-92d4-0db7f8ade892.jpeg)
 
-:wave: Welcome to **Team Leeuwenhoek** at the **HackBio 2021 Intership**.
+
+
+## :wave: Welcome to **Team Leeuwenhoek** at the **HackBio 2021 Internship**.
 
 The HackBio internship is a virtual practice oriented program that helps its participants to build their bioinformatics knowledge under mentorship in a 5 week program with 5 stages while collaborating with fellow participants from all over the world.
 In addition to the technical skills to be gained the internship is also to improve participants soft skills such as networkingamong others that would contribute to their growth as scientific researchers.
@@ -17,7 +21,10 @@ Meet the team:
 
 1. **Kauthar Omar** (Team lead)
 
-:wave: Hello! I am a bioinformatics enthusiast from Nairobi, Kenya with specific interest in genomics and transcriptomics. I have an undergraduate degree in Applied bioengineering from Jomo Kenyatta University of Agriculture and technology in Kenya.I have programming knowledge in bash and python. I enjoy connecting with people of similar interest. Feel free to reach out through [linkedIn](https://www.linkedin.com/in/kauthar-mwanamkuu-omar-550ba0171/) or via email: kauthyomar@gmail.com
+:wave: Hello! I am a bioinformatics enthusiast from Kenya with specific interest in genomics and transcriptomics. I have an undergraduate degree in Applied bioengineering from Jomo Kenyatta University of Agriculture and technology in Kenya.I am conversant with bash and python programming. I enjoy connecting with people of similar interest. Feel free to reach out through [linkedIn](https://www.linkedin.com/in/kauthar-mwanamkuu-omar-550ba0171/) or via email: kauthyomar@gmail.com
+
+![Kauthar](https://user-images.githubusercontent.com/57720624/128473985-c934d180-cfce-4074-8fc1-c563b1b8df12.png)
+
 
 2. **Abdulafiz Musa**
 
