@@ -49,6 +49,7 @@ I am undergrad biotechnology student from INDIA. Interested in bioinformatics an
 I am a biomedical researcher from Nigeria. I am currently pursuing a Masters degree in Neuroscience; I equally have interest in bioinformatics and science journalism. Connect with me on LinkedIn https://www.linkedin.com/in/rhoda-kolo-110215219
 
 
+
 7. **Ayesha Saman Hawaldar**
 
 I am a Master of Biotechnology student from India currently studying at The University of Melbourne. I am interested in host-pathogen interaction, drug development, and vaccine  development. Connect with me on my LinkedIn https://www.linkedin.com/in/ayesha-saman-hawaldar-768499167/
