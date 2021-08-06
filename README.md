@@ -29,7 +29,10 @@ Meet the team:
 
 2. **Abdulafiz Musa**
 
-I am a microbiologist and data science enthusiast from Lagos, Nigeria. I have an undergraduate degree in Microbiology from the University of Lagos, Nigeria. I enjoy molecular studies on infectious diseases and Taekwondo. Feel free to connect with me  @ [LinkedIn](https://www.linkedin.com/in/abdulafizmusa/)
+I am a microbiologist and data science enthusiast from Lagos, Nigeria. I have an undergraduate degree in Microbiology from the University of Lagos, Nigeria. I enjoy Molecular studies on infectious diseases and Data analysis. Feel free to connect with me  @ [LinkedIn](https://www.linkedin.com/in/abdulafizmusa/)
+
+![MUSA A O  PASSPORT PHOTO](https://user-images.githubusercontent.com/45498443/128546345-814b887b-84d0-45e3-aaa4-88b6e5fdc33a.jpg)
+
 
 3. **Kheira Lakhdari**
 
