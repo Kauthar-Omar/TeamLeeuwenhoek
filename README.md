@@ -56,7 +56,8 @@ I am a Master of Biotechnology student from India currently studying at The Univ
 
 8. **Kasturi Pradhan**
 
-I am a Microbiology graduate from India. I am currently pursuing my Masters in the same field. I have an interest in genomics , medical microbiology and molecular biology. I am open to learn about programming and data science. Connect with me on my LinkedIn https://www.linkedin.com/in/kasturi-pradhan-b012b71b8
+I am a Microbiology graduate from India. I am currently pursuing my Masters in the same field. I have an interest in genomics , medical microbiology and molecular biology. I am open to learn about programming and data science.This is my first internship related to bioinformatics and I am excited for the same! Feel free to connect with me on slack, my username is  @Kasturi . Connect with me on my LinkedIn https://www.linkedin.com/in/kasturi-pradhan-b012b71b8
+![WhatsApp Image 2021-08-06 at 20 01 51](https://user-images.githubusercontent.com/88287328/128526325-514dc718-89f7-4cd9-ab52-c643c96cd2b4.jpeg)
 
 
 9. **Prathamesh Krishna Bobale**
