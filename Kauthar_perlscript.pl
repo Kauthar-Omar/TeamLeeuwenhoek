@@ -28,4 +28,4 @@ sub hd {
 
 }
 
-print "$name,$email,$slack_username,$biostack,$twitter_handle,$hamming_distance";
+print "$name,$email,$slack_username,$biostack,$twitter_handle,$hamming_distance \n";
