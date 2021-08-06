@@ -5,7 +5,7 @@ slack_username = '@Rhoda-K'
 biostack = 'genomics'
 twitter_handle = '@rekiaya_'
 
-To calculate hamming_distance
+  #To calculate hamming_distance
 S1 = 'slack_username'
 S2 = 'twitter_handle'
 def  hamming_distance (s1 , s2) :
