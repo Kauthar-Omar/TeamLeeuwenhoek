@@ -8,8 +8,7 @@ CREATE TABLE myData (
 	hammingDist int);
 
 INSERT INTO myData 
-VALUES ('Abdulafiz Musa', 'musaabdulafiz@gmail.com', '@Abdulafiz', 'Data science', '@Abdulafiz_O', 0);
+VALUES ('Abdulafiz Musa', 'musaabdulafiz@gmail.com', '@Abdulafiz', 'Data science', '@Abdulafiz_O', null);
 
-SELECT CONCAT(fullName, ',', email, ',', slackUsername,',', biostack, ',', twitterHandle, ',', hammingDist)
-	AS 	"myDetails" FROM myData
+SELECT * FROM myData
 
