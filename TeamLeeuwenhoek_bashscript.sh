@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-#To run this script sudo password required for running c++ script.
 #Note final csv file generated is TeamLeeuwenhoek.csv intermediate files are deleted.
 
 #To clone the repo.
@@ -10,18 +9,16 @@ git clone https://github.com/Kauthar-Omar/TeamLeeuwenhoek
 bash Kauthar_bashscript.sh > outputrecord.csv
 
 # Python
-python Abdulafiz_Pythonscript.py >> outputrecord.csv
-python Task1halakpython.py >> outputrecord.csv
-python Adams_pythonscript.py >> outputrecord.csv
-python kheira_pythonscript.py >> outputrecord.csv
-python Kasturi_pythonscript.py.py >> outputrecord.csv
-python 'Rhoda_task1_ pythoscript.py' >> outputrecord.csv
+for file in *.py
+do
+  python $file >> outputrecord.csv
+done
 
 # Perl.
 perl Kauthar_perlscript.pl >> outputrecord.csv
 
 # c++ script.
-sudo g++ Pratham99_c++script.cpp
+g++ Pratham99_c++script.cpp
 ./a.out >> outputrecord.csv
 
 #Generating final output file to save names
