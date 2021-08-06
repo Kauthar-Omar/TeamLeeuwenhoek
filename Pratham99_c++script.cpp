@@ -24,8 +24,8 @@ int main () {
     }  // for computing hamming distance
 
 
-    cout<<name<<", "<<email<<", @"<<slack_username<<", "<<biostack<<", @"
-    <<twitter_handle <<", "<<hamming_distance;
+    cout<<name<<","<<email<<",@"<<slack_username<<","<<biostack<<",@"
+    <<twitter_handle <<","<<hamming_distance;
 
     return 0;
 }
