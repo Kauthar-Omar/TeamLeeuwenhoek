@@ -1,6 +1,0 @@
-name = ( "Adams Habeeb" )
-email = ( "habeebadams@gmail.com" )
-slack_username = ( "@Adams" )
-biostack = ( "Public health and Genomic epidemiology" )
-twitter_handle = ( "@Mega_Adams" )
-print ( name,email,slack_username,biostack,twitter_handle, sep="," )
