@@ -17,6 +17,10 @@ done
 # Perl.
 perl Kauthar_perlscript.pl >> outputrecord.csv
 
+# java
+javac Pratham99_javascript.java
+java Pratham99_javascript >> outputrecord.csv
+
 # c++ script.
 g++ Pratham99_c++script.cpp
 ./a.out >> outputrecord.csv
@@ -26,7 +30,7 @@ g++ Pratham99_c++script.cpp
 echo 'Name,Email,Slack_username,Biostack,Twitter_handle,Hamming_distance' > TeamLeeuwenhoek.csv
 #Sorting names alphabetically and selecting unique names as
 #some teammates created more than 1 scripts to avoid name repetition.
-sort outputrecord.csv | uniq --check-chars=10 >> TeamLeeuwenhoek.csv
+sort outputrecord.csv | uniq --check-chars=20 >> TeamLeeuwenhoek.csv
 
 #removing the intermediate file to remain with one .csv file
 rm outputrecord.csv
