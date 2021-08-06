@@ -2,7 +2,7 @@
 The Repo is to document work done in Team Leeuwenhoek.
 Different time zones, different minds, but with a single goal that is to excel.
 
-![HackbioStage0](https://user-images.githubusercontent.com/57720624/128475216-f479173f-f577-410c-97d5-e2c8d44ec0cc.jpeg)  ![CODING](https://user-images.githubusercontent.com/57720624/128476834-9723e013-5858-4d0a-8279-706da8b4e76d.png) 
+![HackbioStage0](https://user-images.githubusercontent.com/57720624/128475216-f479173f-f577-410c-97d5-e2c8d44ec0cc.jpeg)  ![CODING](https://user-images.githubusercontent.com/57720624/128476834-9723e013-5858-4d0a-8279-706da8b4e76d.png)
  ![iCBmages](https://user-images.githubusercontent.com/57720624/128476347-9c7c4553-3285-4ff6-92d4-0db7f8ade892.jpeg)
 
 
@@ -16,6 +16,7 @@ In addition to the technical skills to be gained the internship is also to impro
 
 Our team comprises of students, researchers and professionals from different fields with the aim of perfecting their bioinformatics skills by the end of the internship.
 We are working together as a team in order to execute this weeks task.
+The task can be found [here](Task.md) together with the programming languages executed in.
 
 Meet the team:
 
