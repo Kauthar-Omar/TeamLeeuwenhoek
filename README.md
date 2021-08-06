@@ -10,7 +10,7 @@ Different time zones, different minds, but with a single goal that is to excel.
 ## :wave: Welcome to **Team Leeuwenhoek** at the **HackBio 2021 Internship**.
 
 The HackBio internship is a virtual practice oriented program that helps its participants to build their bioinformatics knowledge under mentorship in a 5 week program with 5 stages while collaborating with fellow participants from all over the world.
-In addition to the technical skills to be gained the internship is also to improve participants soft skills such as networkingamong others that would contribute to their growth as scientific researchers.
+In addition to the technical skills to be gained the internship is also to improve participants soft skills such as networking among others that would contribute to their growth as scientific researchers.
 
 ## The team.
 
