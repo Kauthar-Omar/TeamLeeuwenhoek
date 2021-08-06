@@ -52,3 +52,8 @@ I am a Microbiology graduate from India. I am currently pursuing my Masters in t
 10. **Isaac Temiloluwa Omolayo**
 
 I am an undergraduate of Electronic and Electrical Engineering, Obafemi Awolowo University from Ekiti, Nigeria. My research interests include medical robotics, and biomedical sciences. Connect with me via Mail: iomolayo2541@gmail.com; Linkedin: https://www.linkedin.com/in/iomolayo2541/
+
+
+11. **Nishtha Malhotra**
+
+Hello everyone, I'm Nishtha Malhotra, a big data enthusiast baased out of New Delhi, India. I have done my bachelor's degree in Zoology and Master's degree in Biotechnology. My areas of interest include cancer genomics, vaccine informaatics, data science and software development. Please feel free to reach out via mail (nishtham17@gmail.com) or Linkedin (https://www.linkedin.com/in/nishthamalhotra/)
