@@ -15,10 +15,11 @@ For each person in a team, pick one of the 7 programming languages, Write a scri
 
 Languages in which task was executed in:
 
-| Programming language | Team member/s. |
+| Programming language | Team member/s. | 
 | ------ | --- |
 | Bash | @Kauthar |
-| Python | @Kasturi | @Rhoda |
+| Python | @Kasturi, @Rhoda |
 | Perl | @Kauthar |
 | c++ | |
 | java | |
+| R | @Kauthar |
