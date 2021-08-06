@@ -56,4 +56,4 @@ I am an undergraduate of Electronic and Electrical Engineering, Obafemi Awolowo 
 
 11. **Nishtha Malhotra**
 
-Hello everyone, I'm Nishtha Malhotra, a big data enthusiast baased out of New Delhi, India. I have done my bachelor's degree in Zoology and Master's degree in Biotechnology. My areas of interest include cancer genomics, vaccine informaatics, data science and software development. Please feel free to reach out via mail (nishtham17@gmail.com) or Linkedin (https://www.linkedin.com/in/nishthamalhotra/)
+Hello everyone, I'm Nishtha Malhotra, a big data enthusiast baased out of New Delhi, India. I have done my bachelor's degree in Zoology and Master's degree in Biotechnology. My areas of interest include cancer genomics, vaccine informatics, data science and software development. Please feel free to reach out via mail (nishtham17@gmail.com) or Linkedin (https://www.linkedin.com/in/nishthamalhotra/)
