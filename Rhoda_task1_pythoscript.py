@@ -15,7 +15,7 @@ def  hamming_distance (s1 , s2) :
             count += 1
     return count
 
-print(name,email,slack_username,biostack,twitter_handle, hamming_distance( 'slack_username','twitter_handle'), sep=',')
+print(name,email,slack_username,biostack,twitter_handle, hamming_distance( slack_username,twitter_handle), sep=',')
 
 
 
