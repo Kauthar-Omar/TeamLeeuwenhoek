@@ -5,8 +5,9 @@ slack_username = '@Rhoda-K'
 biostack = 'genomics'
 twitter_handle = '@rekiaya_'
 
-S1 = '@Rhoda-K'
-S2 = '@rekiaya_'
+To calculate hamming_distance
+S1 = 'slack_username'
+S2 = 'twitter_handle'
 def  hamming_distance (s1 , s2) :
     count = 0
     for i in range(len(s1)):
@@ -14,7 +15,7 @@ def  hamming_distance (s1 , s2) :
             count += 1
     return count
 
-print(name,email,slack_username,biostack,twitter_handle, hamming_distance( '@Rhoda-K','@rekiaya'), sep=',')
+print(name,email,slack_username,biostack,twitter_handle, hamming_distance( 'slack_username','twitter_handle'), sep=',')
 
 
 
