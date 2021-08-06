@@ -18,4 +18,4 @@ def hammingDist(str1, str2):
             return count
 str1 = "SLACK USERNAME"
 str2 = "TWITTER HANDLE"
-print(hammingDist(str1, str2))
+print("NAME: "+name,"EMAIL: "+email,"SLACK USERNAME: "+slack_user_name,"BIOSTACK: "+biostack,"TWITTER HANDLE: "+twitter_handle,hammingDist(str1, str2))
