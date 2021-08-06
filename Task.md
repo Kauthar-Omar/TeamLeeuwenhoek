@@ -18,7 +18,7 @@ Languages in which task was executed in:
 | Programming language | Team member/s. |
 | ------ | --- |
 | Bash | @Kauthar |
-| Python | |
+| Python | @Kasturi |
 | Perl | @Kauthar |
 | c++ | |
 | java | |
