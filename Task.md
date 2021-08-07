@@ -1,4 +1,4 @@
-The following is the task executed in the repo
+The following is the task executed in the repo:
 
 The Spreadsheet project
 Each team should create a GitHub repo.
@@ -13,7 +13,7 @@ For each person in a team, pick one of the 7 programming languages, Write a scri
 - Now, in another column output, calculate the output of the Hamming distance between your slack handle and twitter handle.
 - The output for every team member should now be name, email, slack_username (with @) your biostack , twitter_handle and hamming_distance.
 
-The task was executed in bash, python, perl, c++, java. A html and SQL script was also written. The following dependancies are need to run the scripts:
+The task was executed in bash, python, perl, c++, java and R. A html and SQL script was also written. The following dependancies are needed to run the scripts:
 
 ```
 perl(v5.30.0)
