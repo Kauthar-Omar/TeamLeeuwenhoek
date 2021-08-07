@@ -3,7 +3,7 @@ email = "gracejeta08@gmail.com"
 slack_user_name = "@Grace"
 biostack = "Genomics"
 twitter_handle ="Gracy_ldn"
-def hammingDist(str1, str2)
+def hammingDist(str1, str2):
      i = 0
      count = 0
      while(i < len(str1)):
