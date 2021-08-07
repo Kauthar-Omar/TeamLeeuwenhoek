@@ -14,8 +14,8 @@ def hammingDist(str1, str2):
             i += 1
         return count
     else:
-        return('Strings not of equal length')
+        return('0')
     
 hamming_distance = hammingDist(slack_username,twitter_handle)
-print(hamming_distance)
+
 print(name+","+email+","+slack_username+","+biostack+","+twitter_handle+","+hamming_distance)
