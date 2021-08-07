@@ -20,6 +20,6 @@ Languages in which task was executed in:
 | Bash | @Kauthar |
 | Python | @Kasturi, @Rhoda |
 | Perl | @Kauthar |
-| c++ | |
-| java | |
+| c++ | @Pratham99 |
+| java | @Pratham99 |
 | R | @Kauthar |
