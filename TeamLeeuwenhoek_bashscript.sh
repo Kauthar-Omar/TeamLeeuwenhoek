@@ -43,3 +43,9 @@ rm outputrecord.csv
 
 # Creating a copy of the csv file in the path you are running the script from for ease in viewing.
 cp TeamLeeuwenhoek.csv ../
+
+echo '
+
+###SCRIPT SUCCESSFULLY COMPLETED PROCEED TO VIEWING CSV FILE###.
+
+'
