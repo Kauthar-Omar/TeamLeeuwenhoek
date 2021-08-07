@@ -16,7 +16,7 @@ In addition to the technical skills to be gained the internship is also to impro
 
 Our team comprises of students, researchers and professionals from different fields with the aim of perfecting their bioinformatics skills by the end of the internship.
 We are working together as a team in order to execute this week's task.
-The task can be found [here](Task.md) together with the programming languages executed in.
+The task can be found [here](Task.md) together with the **programming languages** and **dependancies** required executed in.
 
 Meet the team:
 
