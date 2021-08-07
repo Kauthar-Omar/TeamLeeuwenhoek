@@ -3,7 +3,7 @@
 $name = 'Kauthar Omar';
 $email = 'kauthyomar@gmail.com';
 $slack_username = '@Kauthar';
-$biostack = 'genomics/transcriptomics';
+$biostack = 'Genomics/Transcriptomics';
 $twitter_handle = '@K__Omar';
 $hamming_distance = hd($slack_username, $twitter_handle);
 

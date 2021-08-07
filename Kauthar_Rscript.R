@@ -3,7 +3,7 @@
 name <- 'Kauthar Omar'
 email <- 'kauthyomar@gmail.com'
 slack_username <- '@Kauthar'
-biostack <- 'genomics/transcriptomics'
+biostack <- 'Genomics/Transcriptomics'
 twitter_username <- '@K__Omar'
 
 #calculating hamming distance.
