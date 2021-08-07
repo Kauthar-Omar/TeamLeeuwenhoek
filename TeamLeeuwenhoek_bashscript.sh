@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 #Note final csv file generated is TeamLeeuwenhoek.csv intermediate files are deleted.
+#See Task.md to view dependancies required to run the script.
 
 #To clone the repo.
 git clone https://github.com/Kauthar-Omar/TeamLeeuwenhoek
