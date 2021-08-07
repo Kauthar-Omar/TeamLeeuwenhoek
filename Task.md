@@ -13,12 +13,20 @@ For each person in a team, pick one of the 7 programming languages, Write a scri
 - Now, in another column output, calculate the output of the Hamming distance between your slack handle and twitter handle.
 - The output for every team member should now be name, email, slack_username (with @) your biostack , twitter_handle and hamming_distance.
 
-Languages in which task was executed in:
+The task was executed in bash, python, perl, c++, java. A html and SQL script was also written. The following dependancies are need to run the scripts:
 
-| Programming language | Team member/s. | 
+```
+perl(v5.30.0)
+Python 3.8.5
+R version 3.6.3
+openjdk version "1.8.0_152-release"
+GNU compiler to run c++
+```
+
+| Programming language | Team member/s. |
 | ------ | --- |
 | Bash | @Kauthar |
-| Python | @Kasturi, @Rhoda |
+| Python | @Kasturi, @Rhoda, @Abdulafiz, @Adams, @Ayesha, @Halak, @Kheira, @Nishtha. |
 | Perl | @Kauthar |
 | c++ | @Pratham99 |
 | java | @Pratham99 |
