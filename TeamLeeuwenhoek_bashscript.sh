@@ -27,6 +27,9 @@ java Pratham99_javascript >> outputrecord.csv
 # R
 Rscript Kauthar_Rscript.R >> outputrecord.csv
 
+# php
+php Pratham99_phpscript.php >> outputrecord.csv
+
 # c++ script.
 g++ Pratham99_c++script.cpp
 ./a.out >> outputrecord.csv
@@ -46,6 +49,6 @@ cp TeamLeeuwenhoek.csv ../
 
 echo '
 
-###SCRIPT SUCCESSFULLY COMPLETED PROCEED TO VIEWING CSV FILE###.
+###SCRIPT RUNNING SUCCESSFULLY COMPLETED PROCEED TO VIEWING CSV FILE###.
 
 '
