@@ -11,8 +11,7 @@ str2 = "@Ash95Saman"
 
 from itertools import zip_longest
 def hamming_dist(str1, str2):
-  return sum(c1 != c2 for c1, c2 in zip_longest(str1, str2))
-
-hamming_dist("@Ayesha", "@Ash95Saman")
+    return sum(c1 != c2 for c1, c2 in zip_longest(str1, str2))
+hamming_distance = hamming_dist("@Ayesha", "@Ash95Saman")
 
 print(name, email, slack_username, biostack, twitter_handle, hamming_distance, sep=',')
