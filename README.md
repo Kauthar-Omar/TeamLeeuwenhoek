@@ -51,6 +51,7 @@ I am undergrad biotechnology student from INDIA. Interested in bioinformatics an
 
 I am a biomedical researcher from Nigeria. I am currently pursuing a Masters degree in Neuroscience; I equally have interest in bioinformatics and science journalism. Connect with me on LinkedIn https://www.linkedin.com/in/rhoda-kolo-110215219
 
+![PhotoGrid_Plus_1627892739662](https://user-images.githubusercontent.com/88286563/128592270-d93d726c-a86a-4299-ade5-bf14f5eb9847.jpg)
 
 
 7. **Ayesha Saman Hawaldar**
