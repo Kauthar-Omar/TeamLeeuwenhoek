@@ -31,3 +31,4 @@ GNU compiler to run c++
 | c++ | @Pratham99 |
 | java | @Pratham99 |
 | R | @Kauthar |
+| SQL | @Abdulafiz |
