@@ -76,8 +76,6 @@ I am a Microbiology graduate from India. I am currently pursuing my Masters in t
 
 I am an undergraduate of Electronic and Electrical Engineering, Obafemi Awolowo University from Ekiti, Nigeria. My research interests include medical robotics, and biomedical sciences. Connect with me via Mail: iomolayo2541@gmail.com; Linkedin: https://www.linkedin.com/in/iomolayo2541/
 
-![IMG_20210320_103624 (2)](https://user-images.githubusercontent.com/19413520/128607453-2731dad8-f9a4-447c-9cd2-dbf0fe6374ab.jpg)
-
 
 11. **Nishtha Malhotra**
 
